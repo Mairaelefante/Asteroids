@@ -1,3 +1,11 @@
+![Asteroids](cover.svg)
+
+> **Arcade gameplay · Programming**
+
+**Area:** Game Development · [Browse project files](./)
+
+---
+
 # Asteroids Color Modified
 
 A Python, Panda3D game project.
